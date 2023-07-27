@@ -5,3 +5,7 @@ Este proyecto es una calculadora que imita las operaciones básicas de una calcu
 
 imagen dos
 ![Screenshot_2023-07-26-21-04-36-080_com androidperu calculator](https://github.com/Sebas333231/Calculator_compose/assets/110652225/4d4b002a-be69-499f-bc5f-747954d71556)
+
+
+imagen_tres
+![Screenshot_2023-07-26-21-04-41-160_com androidperu calculator](https://github.com/Sebas333231/Calculator_compose/assets/110652225/e0a6aa47-9cd1-4352-949f-8d32e4de390a)
